@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Martin Cavanagh",
+    "label": "Intégrateur web",
+    "picture": "",
+    "email": "Martin.cavanagh@live.ca",
+    "phone": "(581) 986-0837",
+    "website": "",
+    "summary": "Travaillant  j’aimerais joindre votre équipe de travail afin de développer mes compétences en multimédia.",
+    "location": {
+      "address": "343 Elzéar-Verrault",
+      "postalCode": "G1C 0G3",
+      "city": "Québec",
+      "countryCode": "Canada",
+      "region": "Québec"
+    },
+    "profiles": [
+      {
+        "network": "Pinterest",
+        "username": "Martin Cavanagh",
+        "url": "https://www.pinterest.ca/martin_cavanagh/"
+      },
+      {
+        "network": "Wordpress",
+        "username": "timblogues2017martincavanagh",
+        "url": "https://timblogues2017martincavanagh.wordpress.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Provigo",
+      "position": "Commis au fruits et légumes",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Provigo est une entreprise d'épicerie qui sert au client divert produit. L'emploi que j'ai été attribué a été de m'occuper des fruits et des légumes pour assurer une bonne qualité. Ce provigo était à Baie-Comeau.",
+      "highlights": [
+        "Prendre les commandes arrivé par camion pour l'entreposage",
+        "Assurer la qualité des aliments en les changeants de place ou de retirer ce qui n'est plus bon.",
+        "Servir au Client qui ont besoin d'aide por ne pas les laisser délaisser. "
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Paracyclisme",
+      "position": "Assistant d'aide sur le terrain",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Durant plusieurs années, à Baie-Comeau, il y eu une course de paracyclisme dans les rues. J'ai eu comme tâche divers services qui se résume à m'assurer que tout le monde vont bien. J'ai aidé à déplacer du matériel, aidé à servir les gens dans le casse-croute sous la gouverne de l'orange bleu, ramasser les détritues laissé par les passants et être intervenant à la route pour assurer le controle du circuit de course.",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cégep de Saint-Foy",
+      "area": "Technique d'intégration en Multimédia d'application et de web.",
+      "studyType": "Technique",
+      "startDate": "2017",
+      "endDate": "...",
+      "gpa": "",
+      "courses": [
+        "Intégration - HTML et CSS",
+        "Intégration 2 - XML",
+        "Programmation - JavaScript et JSON",
+        "Culture numérique",
+        "Design d'interface",
+        "Traitement des médias",
+        ""
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Capacité des études",
+      "level": "Modérer",
+      "keywords": [
+        "Utiliser les divers languages du webs - XML, HTML, CSS, JSON, JS.",
+        "Utiliser les outils du développement web - suite d'Adobe, Sketch, PhpStorm, le Terminal.",
+        "S'intéresser à la culture numérique et désign au travers des ages et du présent.",
+        "Mettre en pratique les normes du W3C pour les structures de HTML5 et de CSS3.",
+        "Intégrer ses projets dans les servers de la TimUnix."
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
